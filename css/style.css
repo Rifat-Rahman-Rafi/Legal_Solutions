@@ -1,0 +1,135 @@
+ul {
+    margin-left: 50px;
+}
+
+li {
+    margin-left: 25px;
+}
+
+.btn-lg {
+    background-color: #B68C5A;
+    color: white;
+    border-radius: 5px;
+    border:none;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    max-width: 180px;
+
+} 
+
+
+.container-1 {
+    background-image: url("../images/banner.png");
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+.btn-search{
+    background-color: #b68c5a;
+    color: white;
+    height: 64px;
+    width: 150px;
+    border-radius: 8px;
+    border: none;
+    
+  }
+
+  .col img{
+    
+    height: 150px;
+}
+.card-text{
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 10px;
+   
+}
+
+.btn-frane img{
+    width: 32.5px;
+    height: 31.51px;
+    margin-bottom: 50px;
+}
+.card-style{
+    background: linear-gradient(#F3F3F3, #ffffff);
+}
+.gradin-card {
+
+    margin-top: 50px;
+
+}
+
+
+.caro-slid{
+    height: 520px;
+}
+.user-1{
+    width: 80px;
+    height: 130px;
+}
+
+.new-daware{
+    border: none;
+    background-color: white;
+    font-size: 18px;
+   padding-bottom: 20px;
+   padding-top: 30px;
+   margin-left: 20px;
+}
+
+.set-daware{
+    display: flex;
+    justify-content: space-between;
+}
+.set-btn{
+    font-size: 50px;
+    border: none;
+    background-color: white;
+    margin-right: 50px;
+}
+.form-page{
+    color: black;
+    
+}
+.border-creat{
+    border-right: 5px solid ;
+ 
+    height: 200px;
+    border-color: rgb(193, 193, 193);
+   
+}
+.form-page img{
+    padding: 10px;
+    height: 100px;
+}
+.all-card{
+    padding-top:40px ;
+}
+.form-field{
+    padding-left: 10px;
+    padding-top: 10px;
+   
+}
+.field{
+    background-color: #F3F3F3;
+}
+
+.footer{
+    margin-top: 80px;
+}
+.btn-search-nav{
+    background-color: #B68C5A;
+}
+footer a , p{
+    text-decoration: none;
+    font-size: 20px;
+}
+.send-message{
+    width: 100%;
+    font-size: large;
+}
+#navbarNav{
+    color: #707070;
+}
